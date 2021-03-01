@@ -4,6 +4,7 @@
     "description": "A parser for the ancient humans.txt spec. Let's bring it back yo!",
     "keywords": ["parser", "humans.txt"],
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "Ryan Neudorf",
@@ -11,5 +12,12 @@
             "homepage": "https://ohryan.ca",
             "role": "Developer"
         }
-    ]
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Ohryan\\Humanstxt\\":"src/"
+        }
+    },
+    "require": {}
 }

@@ -1,5 +1,5 @@
 <?php
-namespace Humanstxt;
+namespace Ohryan\Humanstxt;
 
 class Parser {
 
