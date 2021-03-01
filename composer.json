@@ -1,0 +1,15 @@
+{
+    "name": "ohryan/humanstxt-parser",
+    "type": "library",
+    "description": "A parser for the ancient humans.txt spec. Let's bring it back yo!",
+    "keywords": ["parser", "humans.txt"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ryan Neudorf",
+            "email": "ryan.neudorf@gmail.com",
+            "homepage": "https://ohryan.ca",
+            "role": "Developer"
+        }
+    ]
+}
